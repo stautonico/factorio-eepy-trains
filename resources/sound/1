@@ -1,0 +1,30 @@
+ffmpeg version n7.0.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.1.1 (GCC) 20240522
+  configuration: --prefix=/usr --disable-static --disable-stripping --enable-amf --enable-avisynth --enable-libfontconfig --enable-fontconfig --enable-gmp --enable-gnutls --enable-gpl --enable-ladspa --enable-libaom --enable-libass --enable-libbluray --enable-libbs2b --enable-libdav1d --enable-libdrm --enable-libdvdnav --enable-libdvdread --enable-libfreetype --enable-libfribidi --enable-libgsm --enable-libharfbuzz --enable-libiec61883 --enable-libjack --enable-libjxl --enable-libmodplug --enable-libmp3lame --enable-libopencore_amrnb --enable-libopencore_amrwb --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libplacebo --enable-libpulse --enable-librav1e --enable-librsvg --enable-librubberband --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libsrt --enable-libssh --enable-libtheora --enable-libv4l2 --enable-libvidstab --enable-libvorbis --enable-libvpl --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxcb --enable-libxml2 --enable-libxvid --enable-libzimg --enable-nvdec --enable-nvenc --enable-opencl --enable-opengl --enable-shared --enable-vapoursynth --enable-version3 --enable-vulkan --enable-alsa --enable-bzlib --enable-iconv --enable-libxcb-shm --enable-libxcb-xfixes --enable-libxcb-shape --enable-lzma --enable-sdl2 --enable-xlib --enable-zlib --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-v4l2-m2m --enable-vaapi --enable-vdpau --enable-librist --enable-lto --enable-libsvtav1 --enable-libvmaf --enable-cuda-llvm --disable-cuvid --disable-debug --disable-sndio
+ffmpeg version n7.0.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.1.1 (GCC) 20240522
+  configuration: --prefix=/usr --disable-static --disable-stripping --enable-amf --enable-avisynth --enable-libfontconfig --enable-fontconfig --enable-gmp --enable-gnutls --enable-gpl --enable-ladspa --enable-libaom --enable-libass --enable-libbluray --enable-libbs2b --enable-libdav1d --enable-libdrm --enable-libdvdnav --enable-libdvdread --enable-libfreetype --enable-libfribidi --enable-libgsm --enable-libharfbuzz --enable-libiec61883 --enable-libjack --enable-libjxl --enable-libmodplug --enable-libmp3lame --enable-libopencore_amrnb --enable-libopencore_amrwb --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libplacebo --enable-libpulse --enable-librav1e --enable-librsvg --enable-librubberband --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libsrt --enable-libssh --enable-libtheora --enable-libv4l2 --enable-libvidstab --enable-libvorbis --enable-libvpl --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxcb --enable-libxml2 --enable-libxvid --enable-libzimg --enable-nvdec --enable-nvenc --enable-opencl --enable-opengl --enable-shared --enable-vapoursynth --enable-version3 --enable-vulkan --enable-alsa --enable-bzlib --enable-iconv --enable-libxcb-shm --enable-libxcb-xfixes --enable-libxcb-shape --enable-lzma --enable-sdl2 --enable-xlib --enable-zlib --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-v4l2-m2m --enable-vaapi --enable-vdpau --enable-librist --enable-lto --enable-libsvtav1 --enable-libvmaf --enable-cuda-llvm --disable-cuvid --disable-debug --disable-sndio
+  libavutil      59.  8.100 / 59.  8.100
+  libavcodec     61.  3.100 / 61.  3.100
+  libavformat    61.  1.100 / 61.  1.100
+  libavdevice    61.  1.100 / 61.  1.100
+  libavfilter    10.  1.100 / 10.  1.100
+  libswscale      8.  1.100 /  8.  1.100
+  libswresample   5.  1.100 /  5.  1.100
+  libpostproc    58.  1.100 / 58.  1.100
+  libavutil      59.  8.100 / 59.  8.100
+  libavcodec     61.  3.100 / 61.  3.100
+  libavformat    61.  1.100 / 61.  1.100
+  libavdevice    61.  1.100 / 61.  1.100
+  libavfilter    10.  1.100 / 10.  1.100
+  libswscale      8.  1.100 /  8.  1.100
+  libswresample   5.  1.100 /  5.  1.100
+  libpostproc    58.  1.100 / 58.  1.100
+Input #0, ogg, from 'honk-shoo.ogg':
+  Duration: 00:00:04.79, start: 0.000000, bitrate: 297 kb/s
+  Stream #0:0: Audio: vorbis, 48000 Hz, stereo, fltp, 499 kb/s
+Input #0, ogg, from 'honk-shoo.ogg':
+  Duration: 00:00:04.79, start: 0.000000, bitrate: 297 kb/s
+  Stream #0:0: Audio: vorbis, 48000 Hz, stereo, fltp, 499 kb/s
+At least one output file must be specified
+At least one output file must be specified
